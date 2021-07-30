@@ -12,3 +12,5 @@ export const setStep = value => ({
   type: ACTION_TYPES.SET_STEP,
   newStep: Number(value),
 });
+
+
